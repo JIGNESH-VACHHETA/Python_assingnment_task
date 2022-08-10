@@ -1,0 +1,23 @@
+MODULE:1
+
+
+
+
+(1)What is python?
+Ans:Python is a programming language.
+
+
+(2)what is software?
+Ans:A collection of computer program and related data that provides the instryction for telling a computer what to do how to do it.
+
+(3)Types of software?
+Ans:There are types of software
+    1. System software
+    2. Programming Software
+    3. Application Software
+
+(4)Who developed computer?
+Ans:Charles Babbage.
+
+(5)What is meaning of programming language?
+Ans:Collection of programs a way to communicate.
